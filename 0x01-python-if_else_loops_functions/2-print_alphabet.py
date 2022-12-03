@@ -1,2 +1,3 @@
-for i in range('a', 'z'):
-    print(i)
+#!/usr/bin/python3
+for j in range(97, 123):
+    print(f{chr(j)})
