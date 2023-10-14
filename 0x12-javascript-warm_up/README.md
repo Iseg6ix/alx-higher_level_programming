@@ -1,1 +1,3 @@
-This dir contains foundation files on Js
+/**
+This directory was created to tackle some tasks in Javascript basics
+*/
